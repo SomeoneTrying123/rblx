@@ -1,0 +1,17 @@
+{
+  "Update0": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": 1000000000000000
+  },
+  "Update1": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": 500000000000000
+  },
+  "Code123": {
+    "Active": True,
+    "RewardType": "Robux",
+    "RewardValue": 500000000000
+  }
+}
